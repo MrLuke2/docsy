@@ -1,6 +1,6 @@
-# Docsy config
+Docsy config
 #
-# cSpell:ignore docsy fortawesome fontawesome webfonts
+cSpell:ignore docsy fortawesome fontawesome webfonts
 
 params:
   time_format_blog: Monday, January 02, 2006
